@@ -1,0 +1,3 @@
+#bin/bash
+mkdir -p /home/adminuser/test3
+sudo apt install -y apache2
